@@ -6,9 +6,12 @@ This repository includes courses' projects I did at NYU. For example, conducting
 1. Advanced Topics in Data Science: Music Mood Classification
 
 [Music and Moods.ppt](https://docs.google.com/presentation/d/1YngXLUOz2TqRwVdibbQ0SSrgAEiSyTbm-nzy09watbc/edit?usp=sharing)
-[CNN - Music Mood Classifications.ipynb]([url](https://colab.research.google.com/drive/1Dh75RNhq0fLjnCVOTd0DWeL_QA0vZrdW?usp=sharing)https://colab.research.google.com/drive/1Dh75RNhq0fLjnCVOTd0DWeL_QA0vZrdW?usp=sharing)
-[RNN - Music Mood Classifications.ipynb]([url](https://colab.research.google.com/drive/1CDCpPFWViVC8gpLcMQwS80rrakTtk84r?usp=sharing))
-3. Responsible Data Science: Fairness Metrics Evaluation on Automated Product Pricing System
+
+[CNN - Music Mood Classifications.ipynb](https://colab.research.google.com/drive/1Dh75RNhq0fLjnCVOTd0DWeL_QA0vZrdW?usp=sharing)
+
+[RNN - Music Mood Classifications.ipynb](https://colab.research.google.com/drive/1CDCpPFWViVC8gpLcMQwS80rrakTtk84r?usp=sharing)
+
+2.. Responsible Data Science: Fairness Metrics Evaluation on Automated Product Pricing System
 [Report on Automated Pricing Decision System.pdf]([url](https://docs.google.com/document/d/1vjU9kkfutRWNvrZx3nVNE76wxrz_VEWoDVC8i0bKn8c/edit?usp=sharing))
 [ADS.ipynb]([url](https://colab.research.google.com/drive/1rw_6DMpZIzXtxM0606KhlOHHapSX-Qsd?usp=sharing))
 4. Database Management: NYU Learning Management Database
