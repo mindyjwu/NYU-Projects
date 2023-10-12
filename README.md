@@ -3,7 +3,7 @@
 This repository includes courses' projects I did at NYU. For example, conducting hypothesis testing in music popularity regression models, delving into research on the causal relationship between music and cognitive responses, redesigning NYU learning management database, formulating fairness metrics for evaluation of automated product pricing decision system, and developing neural networks classifiers to discern human emotional connections to audio.
 
 
-1. Advanced Topics in Data Science: Music Mood Classification
+1. Advanced Topics in Data Science: Music Mood Classification`<br>`
 [Music and Moods.ppt](https://docs.google.com/presentation/d/1YngXLUOz2TqRwVdibbQ0SSrgAEiSyTbm-nzy09watbc/edit?usp=sharing)
 [CNN - Music Mood Classifications.ipynb]([url](https://colab.research.google.com/drive/1Dh75RNhq0fLjnCVOTd0DWeL_QA0vZrdW?usp=sharing)https://colab.research.google.com/drive/1Dh75RNhq0fLjnCVOTd0DWeL_QA0vZrdW?usp=sharing)
 [RNN - Music Mood Classifications.ipynb]([url](https://colab.research.google.com/drive/1CDCpPFWViVC8gpLcMQwS80rrakTtk84r?usp=sharing))
