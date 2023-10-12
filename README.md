@@ -4,7 +4,7 @@ This repository includes courses' projects I did at NYU. For example, conducting
 
 
 1. Advanced Topics in Data Science: Music Mood Classification
-[Music and Moods.ppt]([url](https://docs.google.com/presentation/d/1YngXLUOz2TqRwVdibbQ0SSrgAEiSyTbm-nzy09watbc/edit?usp=sharing)https://docs.google.com/presentation/d/1YngXLUOz2TqRwVdibbQ0SSrgAEiSyTbm-nzy09watbc/edit?usp=sharing)
+[Music and Moods.ppt](https://docs.google.com/presentation/d/1YngXLUOz2TqRwVdibbQ0SSrgAEiSyTbm-nzy09watbc/edit?usp=sharing)
 [CNN - Music Mood Classifications.ipynb]([url](https://colab.research.google.com/drive/1Dh75RNhq0fLjnCVOTd0DWeL_QA0vZrdW?usp=sharing)https://colab.research.google.com/drive/1Dh75RNhq0fLjnCVOTd0DWeL_QA0vZrdW?usp=sharing)
 [RNN - Music Mood Classifications.ipynb]([url](https://colab.research.google.com/drive/1CDCpPFWViVC8gpLcMQwS80rrakTtk84r?usp=sharing))
 3. Responsible Data Science: Fairness Metrics Evaluation on Automated Product Pricing System
