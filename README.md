@@ -11,20 +11,20 @@ This repository includes courses' projects I did at NYU. For example, conducting
 
 [RNN - Music Mood Classifications.ipynb](https://colab.research.google.com/drive/1CDCpPFWViVC8gpLcMQwS80rrakTtk84r?usp=sharing)
 
-2.. Responsible Data Science: Fairness Metrics Evaluation on Automated Product Pricing System  
+2. Responsible Data Science: Fairness Metrics Evaluation on Automated Product Pricing System  
 
 [Report on Automated Pricing Decision System.pdf](https://docs.google.com/document/d/1vjU9kkfutRWNvrZx3nVNE76wxrz_VEWoDVC8i0bKn8c/edit?usp=sharing)
 
 [ADS.ipynb](https://colab.research.google.com/drive/1rw_6DMpZIzXtxM0606KhlOHHapSX-Qsd?usp=sharing)
 
 
-4. Database Management: NYU Learning Management Database
+3. Database Management: NYU Learning Management Database
 
  
-6. Causal Inference: Causal Inference between Music and Cognitive
+4. Causal Inference: Causal Inference between Music and Cognitive
 
    
-8. [Data Bootcamp: Final Project on Multi-Classification Model](https://colab.research.google.com/drive/1vfu94dwYVrCL7L3t-ZWCZeqTffwOTf8J?usp=sharing)
+5. [Data Bootcamp: Final Project on Multi-Classification Model](https://colab.research.google.com/drive/1vfu94dwYVrCL7L3t-ZWCZeqTffwOTf8J?usp=sharing)
 
 
 
