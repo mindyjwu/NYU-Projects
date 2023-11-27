@@ -17,8 +17,8 @@ This repository includes courses' projects I did at NYU. For example, conducting
 
 3. Database Management: NYU Learning Management Database
    
-   [ER Diagram_BrightSpace.png]([https://colab.research.google.com/drive/1rw_6DMpZIzXtxM0606KhlOHHapSX-Qsd?usp=sharing](https://drive.google.com/file/d/1bIDBLS-K97-wGU_ElgzZkpUu29xFQsBd/view?usp=sharing))
-
+   [ER Diagram_BrightSpace.png](https://drive.google.com/file/d/1bIDBLS-K97-wGU_ElgzZkpUu29xFQsBd/view?usp=sharing)
+   
  
 5. Causal Inference: Causal Inference between Music and Cognitive
 
