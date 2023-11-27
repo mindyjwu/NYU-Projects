@@ -25,7 +25,8 @@ This repository includes courses' projects I did at NYU. For example, conducting
 5. Causal Inference: Causal Inference between Music and Cognitive
 
    
-6. [Data Bootcamp: Final Project on Multi-Classification Model](https://colab.research.google.com/drive/1vfu94dwYVrCL7L3t-ZWCZeqTffwOTf8J?usp=sharing)
+6. Stern Data Bootcamp Course
+ [Final Project on Multi-Classification Model](https://colab.research.google.com/drive/1vfu94dwYVrCL7L3t-ZWCZeqTffwOTf8J?usp=sharing)
 
 
 
